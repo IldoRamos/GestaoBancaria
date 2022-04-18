@@ -15,6 +15,9 @@ Projeto de gestão bancaria
 
 5 - npm start
 
-6 - Open on Android (a)
+6- se não reconhecer comando react-native execute comando abaixo
+ # npm install -g react-native-cli
 
-7 - Android ADB WLAN
+7 - Open on Android (a)
+
+8 obs: opcional - Android ADB WLAN
